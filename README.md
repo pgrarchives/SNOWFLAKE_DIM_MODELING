@@ -23,7 +23,7 @@ This project involves creating a dimensional model in Snowflake, a cloud-based d
 - Snowflake account
 - S3 bucket with the necessary CSV files
 ![Screenshot (28)](https://github.com/user-attachments/assets/fe997b49-f8cb-42ab-9212-6dfe6fea19e8)
-
+Note: You can these csv files here -> https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
 - Basic understanding of SQL and data warehousing concepts
 
 ## Project Steps
