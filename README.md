@@ -22,7 +22,7 @@ This project involves creating a dimensional model in Snowflake, a cloud-based d
 ## Prerequisites
 - Snowflake account
 - S3 bucket with the necessary CSV files
-![Screenshot (28)](https://github.com/user-attachments/assets/397b8ee2-38bd-4a13-9037-220e4adc2ff9)
+![Screenshot (28)](https://github.com/user-attachments/assets/fe997b49-f8cb-42ab-9212-6dfe6fea19e8)
 
 - Basic understanding of SQL and data warehousing concepts
 
